@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter>
     <div className="App">
       <header className="App-header">
-        <Link to="/">Necrolust Records</Link>
+        <Link to="/"><h1>Esmeralda</h1></Link>
       </header>
       <main>
         <Routes>
